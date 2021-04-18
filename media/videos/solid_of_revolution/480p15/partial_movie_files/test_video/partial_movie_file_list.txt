@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/MinhKhang-PC/Documents/GitHub/manim_solid_of_revolution/media/videos/solid_of_revolution/480p15/partial_movie_files/test_video/1937487816_1438405273_4154269735.mp4'

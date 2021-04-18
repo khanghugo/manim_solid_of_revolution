@@ -6,5 +6,7 @@ This script will create many smaller cones from f(x) to imitate a solid of revol
 
 How to use:
 Initiate the object. Then a method will be called instantly just to create enough variables and numbers and constants for other methods.
+
 Call methods will return VGroup() type (usable for manim) and you can play animation as soon as possible.
+
 Code is flexible so you can change it easily since there are many variables recorded. You can manipulate it however you want. Peace out.

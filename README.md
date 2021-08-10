@@ -1,5 +1,7 @@
 # manim_solid_of_revolution
 
+![Example Render](vlcsnap-2021-04-18-12h40m04s157.png)
+
 If you are using a simple function line a linear or quadratic, just simply solve for the other variable, no need to use this.
 
 This script will create many smaller cones from f(x) to imitate a solid of revolution because making one with one parametric function is hard (for me).
